@@ -158,5 +158,4 @@
 -   [Developers Swag](https://devswag.io/){:target="_blank"}
 -   [Localhost](http://localhost/){:target="_blank"}
 -   [w3schools](https://www.w3schools.com){:target="_blank"}
--   [DEV Community](https://dev.to/){:target="_blank"}
-
+-   [Learn Binary](https://www.reddit.com/r/WatchandLearn/comments/c0yuwr/how_to_teach_binary/){:target="_blank"}
